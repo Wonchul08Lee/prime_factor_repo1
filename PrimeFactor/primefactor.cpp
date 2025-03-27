@@ -11,8 +11,7 @@ public:
 			result.push_back(divisor);
 			number /= divisor;
 		}
-	}				
-			
-		return result;
+	}		
+	return result;
 	}
 };
